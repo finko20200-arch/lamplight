@@ -1,0 +1,24 @@
+{
+  "name": "lamplight-vigil",
+  "version": "1.0.0",
+  "description": "LAMPLIGHT: Последняя вахта — 2D survivor на Phaser 4",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "node tools/build.mjs",
+    "art": "node tools/art-preview.mjs",
+    "serve": "node tools/serve.mjs",
+    "qa": "node tools/qa.mjs"
+  },
+  "devDependencies": {
+    "esbuild": "^0.25.12",
+    "playwright-core": "^1.64.0",
+    "ws": "^8.22.0"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "phaser": "^4.2.1"
+  }
+}

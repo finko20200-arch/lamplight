@@ -1,0 +1,38 @@
+{
+ "Press_Start_2P_cyrillic_400": {
+  "file": "tools/fonts/Press_Start_2P_cyrillic_400.woff2",
+  "bytes": 6864,
+  "subset": "cyrillic",
+  "weight": "400"
+ },
+ "Press_Start_2P_latin_400": {
+  "file": "tools/fonts/Press_Start_2P_latin_400.woff2",
+  "bytes": 12512,
+  "subset": "latin",
+  "weight": "400"
+ },
+ "Pixelify_Sans_cyrillic_400700": {
+  "file": "tools/fonts/Pixelify_Sans_cyrillic_400700.woff2",
+  "bytes": 5064,
+  "subset": "cyrillic",
+  "weight": "400 700"
+ },
+ "Pixelify_Sans_latin_400700": {
+  "file": "tools/fonts/Pixelify_Sans_latin_400700.woff2",
+  "bytes": 12016,
+  "subset": "latin",
+  "weight": "400 700"
+ },
+ "Handjet_cyrillic_100900": {
+  "file": "tools/fonts/Handjet_cyrillic_100900.woff2",
+  "bytes": 5084,
+  "subset": "cyrillic",
+  "weight": "100 900"
+ },
+ "Handjet_latin_100900": {
+  "file": "tools/fonts/Handjet_latin_100900.woff2",
+  "bytes": 7668,
+  "subset": "latin",
+  "weight": "100 900"
+ }
+}
